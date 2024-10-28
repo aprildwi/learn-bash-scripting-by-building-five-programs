@@ -4,7 +4,7 @@ if [[ $1 == arg1 ]]
 then
 echo true
 fi
-if [[ $1 -le 5 ]]
+if [[ $1 -gt 0 ]]
 then
   echo true
 else
