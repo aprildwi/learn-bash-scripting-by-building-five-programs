@@ -120,3 +120,4 @@ __vsc_prompt_cmd_original
 ./countdown.sh 1
 ./countdown.sh
 help
+./countdown.sh 10
