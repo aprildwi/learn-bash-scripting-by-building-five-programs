@@ -81,3 +81,4 @@ help
 man
 man ./countdown.sh
 man if
+help if
