@@ -4,4 +4,5 @@ echo -e "\n~~ Countdown Timer ~~\n"
 while [[ $I -ge 0 ]]
 do
   echo $I
+  (( I-- ))
 done
