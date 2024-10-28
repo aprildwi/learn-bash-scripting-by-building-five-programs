@@ -118,3 +118,4 @@ help [[
 [[ $1 -gt 0 ]]
 __vsc_prompt_cmd_original
 ./countdown.sh 1
+./countdown.sh
