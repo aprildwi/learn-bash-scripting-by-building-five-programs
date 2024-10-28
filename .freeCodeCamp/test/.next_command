@@ -53,3 +53,7 @@ echo
 __vsc_prompt_cmd_original
 $NAME
 ./questionnaire.sh
+ls --color=auto -l
+ls --color=auto
+read
+echo
