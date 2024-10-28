@@ -128,3 +128,4 @@ man sleep
 man sleep 3
 sleep 3
 sleep 1
+./countdown.sh 3
