@@ -82,3 +82,4 @@ man
 man ./countdown.sh
 man if
 help if
+./countdown.sh arg1
