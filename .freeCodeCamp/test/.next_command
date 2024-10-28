@@ -62,3 +62,4 @@ ls --color=auto
 echo Hello $NAME from $LOCATION
 ./questionnaire.sh
 echo
+./questionnaire.sh
