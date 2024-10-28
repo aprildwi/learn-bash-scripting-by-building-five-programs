@@ -59,3 +59,4 @@ read
 echo
 ls --color=auto
 ./questionnaire.sh
+echo Hello $NAME from $LOCATION
