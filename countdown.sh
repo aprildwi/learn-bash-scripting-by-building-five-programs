@@ -5,4 +5,5 @@ while [[ $I -ge 0 ]]
 do
   echo $I
   (( I-- ))
+  sleep 1
 done
